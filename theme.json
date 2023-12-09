@@ -1,0 +1,29 @@
+{
+    "colors": {
+      "light": "#FFF",
+      "dark": "#000",
+      "primary500": "#4B969D",
+      "secondary": "#333333",
+      "lightBackground": "#E8E7E7",
+      "textGray": "#858585",
+      "gray1": "#E1E1E1",
+      "gray2": "#F2F2F2",
+      "gray3": "#C4C4C4",
+      "gray100": "#383838",
+      "darkGray":"#707070",
+      "error": "#CA6B6E",
+      "success": "#00ED7B",
+      "green": "#B6FFC1",
+      "yellow": "#FFF7AE",
+      "blue": "#D0FBFF",
+      "red": "#FBF0F3",
+      "orange": "#F8DEBD"
+    },
+    "fonts": {
+      "n_bold": "Mulish-Bold",
+      "n_light": "Mulish-Light",
+      "n_medium": "Mulish-Medium",
+      "n_regular": "Mulish-Regular"
+    }
+  }
+  

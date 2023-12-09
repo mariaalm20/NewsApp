@@ -1,0 +1,13 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src", // Set the base directory for resolving non-relative module names
+    "paths": {
+      "@model/*": ["Model/*"],
+      "@presentation/*": ["Presentation/*"],
+      "@view/*": ["View/*"],
+      // Add more aliases as needed
+    },
+  }
+ 
+}
